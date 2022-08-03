@@ -133,8 +133,8 @@ footer nav a:first-child {
   margin-left: 0;
 }
 
-footer a:hover{
-color: white
+footer nav .a{
+
 }
 /*======= Create a hover state for the anchor tag in the footer nav to have the following styles:
   color: white;
